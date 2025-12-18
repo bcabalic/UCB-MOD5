@@ -3,7 +3,7 @@ Module 5 - Factors in Coupon Acceptance While Driving
 
 <h1>Problem Statement</h1>
 When sending out coupons we want to focus on sending coupons that have the best chance of being accepted within certain conditions.
-For this approach I will search for combinations of conditions where the acceptance rate is higher than any single basline condition.
+For this approach I will search for combinations of conditions where the acceptance rate is higher than any single baseline condition.
 
 <h1>Primary Question</h1>  
 Is there a combination of driving conditions that result in higher acceptance rates than any one single condition?
