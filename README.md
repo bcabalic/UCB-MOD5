@@ -7,7 +7,7 @@ For this approach I will search for combinations of conditions where the accepta
 
 <h1>Primary Question</h1>  
 Is there a combination of driving conditions that result in higher acceptance rates than any one single condition?
-The main goal is to distinguish between customers who accepted a driving coupon versus those that did not.  I will demonstrate that through visualizations, but will also investigate an business use case for targeting conditions where there is a high probability of coupon acceptance. 
+The main goal is to distinguish between customers who accepted a driving coupon versus those that did not.  I will demonstrate that through visualizations, but will also investigate business use cases for targeting conditions where there is a high probability of coupon acceptance. 
 
 <h1>Business Context</h1> 
 In the context of business, it is possible to optimize a coupon sending campaign by focusing on conditions that are historically in favor for customer acceptance.
