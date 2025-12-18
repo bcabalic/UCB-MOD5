@@ -26,9 +26,9 @@ There is a lot of data to process here. 121 unique values over 25 columns. In or
 - I found columns with 'NaN' still relevant, decided not to replace values<br>
 
 <h1>My process</h1>
-First, I looked at all columns and ranked them by value and acceptance rate, I took the top 30 columns, which happen to show acceptance rates of 59.55% and above.<br><br>
-Next, I observed the results and attempted to combine categories to see if any would yield even higher acceptance rates, following a similar drill down mentioned above.<br><br>
-Finally, I made inferences from the plots as to which characteristics of customers can be targeted for coupon campaigns.<br><br>
+First, I looked at all columns and ranked them by value and acceptance rate.  I took the top 30 columns, which happen to show acceptance rates of 59.55% and above.<br><
+Next, I observed the results and attempted to combine categories to see if any would yield even higher acceptance rates, following a similar drill down mentioned above.<br>
+Finally, I made inferences from the plots as to which characteristics of customers can be targeted for coupon campaigns.<br>
 
 <h1>Key findings</h1>
 If you look at my Jupyter notebook, I answered all the default questions. Additionally I hand picked 3 key findings:
