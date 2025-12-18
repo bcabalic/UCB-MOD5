@@ -58,7 +58,7 @@ If you look at my Jupyter notebook, I answered all the default questions. Additi
 - The average rate of acceptance is lower in inclement weather (snow and rain) if customer is alone or with kids, when compared to someone traveling with a friend or partner
 
 <h1>Summary</h1>
-In this exploration I took a look at various factors that contribute to coupon acceptance rate.  I sorted out the data to the top 30 factors, then combined some of those factors to find any trends with acceptance if certain conditions were combined.
+In this exploration I took a look at various factors that contribute to coupon acceptance rate.  I sorted out the data to the top 30 factors, then combined some of those factors to find any trends if other conditions were combined.
 This type of data can be used to fine tune or target coupon campaigns by knowing the driving conditions as well coupon type that works most effetively in these conditions. The Jupyter notebook displays various comparisons I conducted to see customers who accepted or did not accept coupons.
 I hand selected 4 conditions that stood out to me and showed how higher acceptance rates could be found within sub categories where multiple driving conditions are met.
 
