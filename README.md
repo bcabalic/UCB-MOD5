@@ -31,20 +31,20 @@ There is a lot of data to process here. 121 unique values over 25 columns. In or
 3. I made inferences from the plots as to which characteristics of customers can be targeted for coupon campaigns.<br>
 
 <h1>Key findings</h1>
-If you look at my Jupyter notebook, I answered all the default questions. Additionally I hand picked 3 key findings:
+If you look at my Jupyter notebook, I answered all the default questions. Additionally I hand picked 4 key findings:
 
-<h3>COUPON ACCEPTANCE FOR RESTAURANTS < 20min AND WITH FRIENDS EXCEED 80%</h3>
+<h3>1. COUPON ACCEPTANCE FOR RESTAURANTS < 20min AND WITH FRIENDS EXCEED 80%</h3>
 - If restaurant is less than 20 min away the acceptance rate is 70.71%.<br>
 - However if a customer is travelling with friends the acceptance rate goes up to <b>80.15%</b>!<br>
 - Without friends, the acceptance rate is stil high: 66.73%<br>
 - If sent a coupon for a restaurant <20 miles, friends travelling together are <b>13.42%</b> more likely to accept than a solo traveler.<br>
 - This condition is also <b>9.44%</b> higher than the general average of coupons accepted for restaurants within 20 min.<br>
 
-<h3>SINGLES ARE LIKELY TO ACCEPT CARRYOUT/TAKEAWAY OR RESTAURANTS <20min AWAY</h3>
+<h3>2. SINGLES ARE LIKELY TO ACCEPT CARRYOUT/TAKEAWAY OR RESTAURANTS <20min AWAY</h3>
 - The coupon acceptance rate for single people is 60.6% overall.<br>
 - However, if coupon is for CarryOut/TakeAway or a Restaurant <20min away the acceptance rates jump to <b>75% and 73%</b> respectively! 
 
-<h3>FOR 10am COUPONS THAT EXPIRE IN 1 DAY - FOCUS ON MALES, SINGLES, AND COFFEE!</h3>
+<h3>3. FOR 10am COUPONS THAT EXPIRE IN 1 DAY - FOCUS ON MALES, SINGLES, AND COFFEE!</h3>
 - I sorted out the TOP 15 acceptance rates in this combined category: 10am coupons & 1-day expiration<br>
 - Then I highlighted the TOP 3 counts (most relevant amount of customers)<br>
 - If you're sending out a coupon at 10am with an 1d expiration - target these customers which have shown <b>65%+</b> acceptance rate historically:<br>
@@ -52,6 +52,10 @@ If you look at my Jupyter notebook, I answered all the default questions. Additi
 1. Males<br>
 2. Singles<br>
 3. Coffee coupons (will also attract customers that have been to a CoffeeHouse 1-8 times!)<br>
+
+<h3>4. IN INCLEMENT WEATHER ACCEPTANCE RATE IS HIGHER CUSTOMER IS WITH FRIEND OR PARTNER</h3>
+- Most noteably, in snowy weather with Friends, there is a 76% acceptance rate!
+- The average rate of acceptance is lower in inclement weather (snow and rain) if customer is alone or with kids, when compared to someone traveling with a friend or partner
 
 <h1>Summary</h1>
 
