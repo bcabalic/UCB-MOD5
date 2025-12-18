@@ -27,9 +27,7 @@ There is a lot of data to process here. 121 unique values over 25 columns. In or
 
 <h1>My process</h1>
 1. I looked at all columns and ranked them by value and acceptance rate.  I took the top 30 columns, which happen to show acceptance rates of 59.55% and above.<br>
-
 2. I observed the results and attempted to combine categories to see if any would yield even higher acceptance rates, following a similar drill down mentioned above.<br>
-
 3. I made inferences from the plots as to which characteristics of customers can be targeted for coupon campaigns.<br>
 
 <h1>Key findings</h1>
