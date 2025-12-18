@@ -31,7 +31,7 @@ Next, I observed the results and attempted to combine categories to see if any w
 Finally, I made inferences from the plots as to which characteristics of customers can be targeted for coupon campaigns.<br><br>
 
 <h1>Key findings</h1>
-If you look at my Jupiter notebook, I answered all the default questions. Additionally I hand picked 3 key findings:
+If you look at my Jupyter notebook, I answered all the default questions. Additionally I hand picked 3 key findings:
 
 <h3>COUPON ACCEPTANCE FOR RESTAURANTS < 20min AND WITH FRIENDS EXCEED 80%</h3>
 - If restaurant is less than 20 min away the acceptance rate is 70.71%.<br>
