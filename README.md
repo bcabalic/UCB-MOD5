@@ -3,13 +3,14 @@ Module 5 - Factors in Coupon Acceptance While Driving
 
 <h1>Problem Statement</h1>
 When sending out coupons we want to focus on sending coupons that have the best chance of being accepted within certain conditions.
-For this approach I will search for conditions where the acceptance rate is extremely high.
+For this approach I will search for combinations of conditions where the acceptance rate is extremely high.
 
 <h1>Primary Question</h1>  
+Is there a combination of driving conditions that result in higher acceptance rates than any one single condition?
 The main goal is to distinguish between customers who accepted a driving coupon versus those that did not.  I will demonstrate that through visualizations, but will also investigate an business use case for targeting conditions where there is a high probability of coupon acceptance. 
 
 <h1>Business Context</h1> 
-In the context of business, it is possible to optimize the coupon sending campaign by focussing on conditions that are in our favor for the customer to accpet the coupon.
+In the context of business, it is possible to optimize the coupon sending campaign by focussing on conditions that are in our favor for the customer to accept the coupon.
 I will define that as a <b>60% or higher</b> acceptance rate.
 
 <h1>Key Research Questions</h1>
