@@ -44,8 +44,8 @@ If you look at my Jupyter notebook, I answered all the default questions. Additi
 - The coupon acceptance rate for single people is 60.6% overall.<br>
 - However, if coupon is for CarryOut/TakeAway or a Restaurant <20min away the acceptance rates jump to <b>75% and 73%</b> respectively! 
 
-<h3>FOR 10am COUPONS THAT EXPIRE IN 1 DAY, FOCUS ON MALES, SINGLES, AND COFFEE!</h3>
-- I sorted out the TOP 15 acceptance rates in this combined category.<br>
+<h3>FOR 10am COUPONS THAT EXPIRE IN 1 DAY - FOCUS ON MALES, SINGLES, AND COFFEE!</h3>
+- I sorted out the TOP 15 acceptance rates in this combined category: 10am coupons & 1-day expiration<br>
 - Then I highlighted the TOP 3 counts (most relevant amount of customers)<br>
 - If you're sending out a coupon at 10am with an 1d expiration - target these customers which have shown <b>65%+</b> acceptance rate historically:<br>
 <br>
